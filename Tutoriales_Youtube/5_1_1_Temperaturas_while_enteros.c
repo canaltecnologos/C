@@ -1,9 +1,8 @@
 #include<stdio.h>
 
 int main(){
-	int fahr;
+	int fahr, celsius;
 	int inicio, final, paso;
-	float celsius;
 	
 	inicio = 0;
 	final = 300;
@@ -14,7 +13,7 @@ int main(){
 	
 	while (fahr <= final){
 		celsius = 5 * (fahr - 32) / 9;
-		printf("%3d\t\t%.3f\n", fahr, celsius);
+		printf("%3d\t\t%3d\n", fahr, celsius);
 		fahr += paso;
 	}
 	
