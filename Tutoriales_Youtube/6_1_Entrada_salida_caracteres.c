@@ -10,4 +10,6 @@ int main(){
 		putchar(caracter);
 		caracter = getchar();
 	}
+	
+	return 0;
 }
