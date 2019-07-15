@@ -8,11 +8,13 @@ Existen dos carpetas:
 
   -Tutoriales_Youtube: Contiene todos los códigos mostrado en los tutoriales de Youtube de nuestro canal, de la misma forma en que están enumerados los vídeos.
   
-  -Ejercicios_Kernighan: Contiene códigos de algunos ejercicios propuestos en el libro "The C Programming Language: ANSI C", la segunda edición escrito por: Brian Kernighan y Dennis Ritchie. Puedes descargar el libro en el siguiente link: 
+  -Ejercicios_Kernighan: Contiene códigos de algunos ejercicios propuestos en el libro "The C Programming Language: ANSI C", la segunda edición escrito por: Brian Kernighan y Dennis Ritchie. Puedes descargar el libro en los siguientes links: 
 
 http://www.academicos.ccadet.unam.mx/mario.gonzalez/cursos_archivos/mn/Kernighan.pdf (en español)
 
 https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf (en inglés)
+
+NOTA: Algunos códigos mostrados en el libro en español contienen errores, por lo que es altamente recomendado que descarguen ambos, y que sigan las explicaciones en español, pero vean los códigos de ejemplo en el que está en inglés. Si tienes la capacidad de leer el libro completo en inglés ¡qué mejor! Siempre leer los libros en su idioma original es mucho mejor; y si no puedes, no te preocupes, el contenido del libro es muy similar y está bien hecho, no hay mucho problema si lees las explicaciones en español, ¡solo ten cuidado con los códigos !
 
 Esperamos que sean de tu ayuda.
 ¡Suerte y feliz programación!
