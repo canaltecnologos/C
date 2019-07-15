@@ -14,7 +14,7 @@ http://www.academicos.ccadet.unam.mx/mario.gonzalez/cursos_archivos/mn/Kernighan
 
 https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf (en inglés)
 
-NOTA: Algunos códigos mostrados en el libro en español contienen errores, por lo que es altamente recomendado que descarguen ambos, y que sigan las explicaciones en español, pero vean los códigos de ejemplo en el que está en inglés. 
+NOTA: Algunos códigos mostrados en el libro en español contienen errores, por lo que es altamente recomendado descargar ambos, y que sigas las explicaciones en español, pero veas los códigos de ejemplo en el que está en inglés. 
 Si tienes la capacidad de leer el libro completo en inglés ¡qué mejor! siempre leer los libros en su idioma original es mucho mejor. Y si no puedes, no te preocupes, el contenido del libro es muy similar y está bien hecho, no hay mucho problema si lees las explicaciones en español, ¡solo ten cuidado con los códigos!
 
 Esperamos que sean de tu ayuda.
